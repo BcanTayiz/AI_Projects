@@ -1,0 +1,8 @@
+streamlit==1.50.0            # Latest stable from PyPI :contentReference[oaicite:0]{index=0}  
+PyPDF2==3.0.1                # Last PyPDF2 release :contentReference[oaicite:1]{index=1}  
+python-docx==1.2.0           # Latest docx library version :contentReference[oaicite:2]{index=2}  
+scikit-learn==1.7.2          # Latest stable ML version :contentReference[oaicite:3]{index=3}  
+trueskill==0.4.5             # Latest trueskill version :contentReference[oaicite:4]{index=4}  
+pandas==2.1.1                 # (optional) your previous version  
+numpy==1.26.0                 # (optional) your previous version  
+plotly==5.18.0                # (optional) your previous version  

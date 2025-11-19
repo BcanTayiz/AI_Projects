@@ -60,6 +60,16 @@ Still — a valuable learning experiment.
 
 ---
 
+## Network Design Graph System — ⭐ *In Progress*
+
+* A project where you can add nodes as server or another network unit,
+* You can connect nodes with edges,
+* It is a simple illustrate of real system,
+* Finally AI system after calculations suggest actions
+
+---
+
+
 ## 🔜 **More Projects Coming Soon…**
 
 I enjoy exploring the boundaries of AI creativity, efficiency, and interactivity.  
